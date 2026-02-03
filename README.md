@@ -20,6 +20,9 @@ Software engineer passionate about hexagonal architecture and clean code.
 - Developer tooling and libraries
 - Spring Boot applications
 
+## Contribution stats
+![Hieu's GitHub stats](./images/profile-night-green.svg)
+
 ## 📫 How to reach me
 - GitHub: [@hieu-nv](https://github.com/hieu-nv)
 - Email: [hieunv@live.com]
