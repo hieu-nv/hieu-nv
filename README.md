@@ -49,9 +49,12 @@ Patterns:  Hexagonal Architecture • MVVM • VIPER • Clean Architecture
 - ⚡ **[hexagon-app](https://github.com/hieu-nv/hexagon-app)** - Hexagonal architecture in Kotlin
 
 ### Pinned Repositories
+- � **[loxodon-framework](https://github.com/hieu-nv/loxodon-framework)** - MVVM & Databinding framework for Unity (C# and Lua)
 - 🎮 **[unity-viper](https://github.com/hieu-nv/unity-viper)** - VIPER architecture implementation for Unity
+- 🌐 **[hieu-nv.github.io](https://github.com/hieu-nv/hieu-nv.github.io)** ⭐ - Personal website
 - 🔧 **[srv-mnt-api](https://github.com/hieu-nv/srv-mnt-api)** ⭐ - Java backend service
-- 🎨 **[loxodon-framework](https://github.com/hieu-nv/loxodon-framework)** - MVVM & Databinding for Unity with C# and Lua
+- 🔐 **[AppSecurity](https://github.com/hieu-nv/AppSecurity)** - Application security implementation
+- 💻 **[srv-mnt-app](https://github.com/hieu-nv/srv-mnt-app)** - TypeScript frontend application
 
 ## 💞️ Open to Collaborate On
 
