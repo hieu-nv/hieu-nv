@@ -1,28 +1,86 @@
 # 👋 Hi, I'm Hieu Nguyen
 
-Software engineer passionate about hexagonal architecture and clean code.
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-hieu--nv.github.io-blue?style=flat-square&logo=google-chrome)](https://hieu-nv.github.io)
+[![Location](https://img.shields.io/badge/📍-Hanoi,_Vietnam-green?style=flat-square)]()
+[![Email](https://img.shields.io/badge/Email-hieunv@live.com-red?style=flat-square&logo=gmail)](mailto:hieunv@live.com)
 
-## 👀 I'm interested in
-- Building maintainable backend systems
-- Kotlin and Spring Boot development
-- Software architecture patterns
-- DevOps and automation
+</div>
 
-## 🌱 I'm currently learning
-- Advanced hexagonal architecture implementation
-- Kotlin coroutines and flow
-- Cloud-native application design
-- Microservice orchestration
+Software engineer passionate about **hexagonal architecture**, **clean code**, and building maintainable systems across multiple technology stacks.
 
-## 💞️ I'm looking to collaborate on
-- Open source projects using Kotlin
-- Backend architecture and design
-- Developer tooling and libraries
-- Spring Boot applications
+## 🚀 About Me
 
-## Contribution stats
+- 🏗️ Building maintainable backend systems with **hexagonal architecture**
+- 💻 Working with **Kotlin**, **C#**, **Java**, and **TypeScript**
+- 🎮 Unity game development with **MVVM/VIPER** patterns
+- 🤖 Exploring **AI-assisted development** and **Copilot skills**
+- 🌱 Cloud-native applications and microservice orchestration
+- 🏆 **Achievements**: Pull Shark x2, Arctic Code Vault Contributor
+
+## 🛠️ Tech Stack
+
+```
+Backend:   Kotlin • Java • Spring Boot • C# • .NET
+Frontend:  TypeScript • JavaScript • React • Vue
+Tools:     Git • Docker • AWS • Unity
+Patterns:  Hexagonal Architecture • MVVM • VIPER • Clean Architecture
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 ![Hieu's GitHub stats](./images/profile-night-green.svg)
 
-## 📫 How to reach me
-- GitHub: [@hieu-nv](https://github.com/hieu-nv)
-- Email: [hieunv@live.com]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieu-nv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-nv&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🌟 Featured Projects
+
+### Recent Work
+- 🚀 **[awesome-copilot](https://github.com/hieu-nv/awesome-copilot)** - Community-contributed GitHub Copilot configurations
+- 🎯 **[antigravity-awesome-skills](https://github.com/hieu-nv/antigravity-awesome-skills)** - 700+ Agentic Skills for Claude/Cursor
+- 🏗️ **[hexagon-dotnet-app](https://github.com/hieu-nv/hexagon-dotnet-app)** - Hexagonal architecture in .NET
+- ⚡ **[hexagon-app](https://github.com/hieu-nv/hexagon-app)** - Hexagonal architecture in Kotlin
+
+### Pinned Repositories
+- 🎮 **[unity-viper](https://github.com/hieu-nv/unity-viper)** - VIPER architecture implementation for Unity
+- 🔧 **[srv-mnt-api](https://github.com/hieu-nv/srv-mnt-api)** ⭐ - Java backend service
+- 🎨 **[loxodon-framework](https://github.com/hieu-nv/loxodon-framework)** - MVVM & Databinding for Unity with C# and Lua
+
+## 💞️ Open to Collaborate On
+
+- 🌐 Open source projects in **Kotlin**, **C#**, or **TypeScript**
+- 🏛️ Backend architecture and **hexagonal/clean architecture** implementations
+- 🛠️ Developer tooling, libraries, and AI-assisted development tools
+- 🎮 Unity frameworks and game architecture patterns
+
+## 📈 Contribution Activity
+
+```
+📦 47 public repositories
+⭐ Contributing to hexagonal architecture and AI tools
+🔥 195 contributions in the last year
+👥 11 followers • 13 following
+```
+
+## 📫 How to Reach Me
+
+- **GitHub**: [@hieu-nv](https://github.com/hieu-nv)
+- **Email**: [hieunv@live.com](mailto:hieunv@live.com)
+- **Website**: [hieu-nv.github.io](https://hieu-nv.github.io)
+
+---
+
+<div align="center">
+
+💡 *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+
+![Profile Views](https://komarev.com/ghpvc/?username=hieu-nv&color=blueviolet&style=flat-square)
+
+</div>
