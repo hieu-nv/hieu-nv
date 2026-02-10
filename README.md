@@ -34,10 +34,6 @@ Patterns:  Hexagonal Architecture • MVVM • VIPER • Clean Architecture
 
 ![Hieu's GitHub stats](./images/profile-night-green.svg)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hieu-nv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-nv&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🌟 Featured Projects
