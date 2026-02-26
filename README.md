@@ -22,12 +22,10 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 
 ## 🛠️ Tech Stack
 
-```
-Backend:   Kotlin • Java • Spring Boot • C# • .NET • Python
-Frontend:  TypeScript • JavaScript • React • Vue • Compose
-Tools:     Git • Docker • AWS • Unity • GitHub Copilot
-Patterns:  Hexagonal Architecture • MVVM • VIPER • Clean Architecture • DDD
-```
+**Backend:** Kotlin • Java • Spring Boot • C# • .NET • Python  
+**Frontend:** TypeScript • JavaScript • React • Vue • Compose  
+**Tools:** Git • Docker • AWS • Unity • GitHub Copilot  
+**Patterns:** Hexagonal Architecture • MVVM • VIPER • Clean Architecture • DDD
 
 ## 📊 GitHub Stats
 
