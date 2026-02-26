@@ -12,20 +12,21 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 
 ## 🚀 About Me
 
-- 🏗️ Building maintainable backend systems with **hexagonal architecture**
-- 💻 Working with **Kotlin**, **C#**, **Java**, and **TypeScript**
-- 🎮 Unity game development with **MVVM/VIPER** patterns
-- 🤖 Exploring **AI-assisted development** and **Copilot skills**
-- 🌱 Cloud-native applications and microservice orchestration
+- 🏗️ Building maintainable backend systems with **hexagonal architecture** and **clean code** principles
+- 💻 Polyglot developer working with **Kotlin**, **C#**, **Java**, **TypeScript**, and **Python**
+- 🎮 Unity game development with **MVVM/VIPER** architectural patterns
+- 🤖 Active in **AI-assisted development**, creating **Copilot skills** and agentic workflows
+- 🌱 Cloud-native applications, microservices, and modern software architecture
+- 📚 51+ open source repositories across multiple tech stacks
 - 🏆 **Achievements**: Pull Shark x2, Arctic Code Vault Contributor
 
 ## 🛠️ Tech Stack
 
 ```
-Backend:   Kotlin • Java • Spring Boot • C# • .NET
-Frontend:  TypeScript • JavaScript • React • Vue
-Tools:     Git • Docker • AWS • Unity
-Patterns:  Hexagonal Architecture • MVVM • VIPER • Clean Architecture
+Backend:   Kotlin • Java • Spring Boot • C# • .NET • Python
+Frontend:  TypeScript • JavaScript • React • Vue • Compose
+Tools:     Git • Docker • AWS • Unity • GitHub Copilot
+Patterns:  Hexagonal Architecture • MVVM • VIPER • Clean Architecture • DDD
 ```
 
 ## 📊 GitHub Stats
