@@ -39,17 +39,18 @@ Patterns:  Hexagonal Architecture • MVVM • VIPER • Clean Architecture
 ## 🌟 Featured Projects
 
 ### Recent Work
-- 🚀 **[awesome-copilot](https://github.com/hieu-nv/awesome-copilot)** - Community-contributed GitHub Copilot configurations
-- 🎯 **[antigravity-awesome-skills](https://github.com/hieu-nv/antigravity-awesome-skills)** - 700+ Agentic Skills for Claude/Cursor
-- 🏗️ **[hexagon-dotnet-app](https://github.com/hieu-nv/hexagon-dotnet-app)** - Hexagonal architecture in .NET
+- 🚀 **[awesome-copilot](https://github.com/hieu-nv/awesome-copilot)** - Community-contributed GitHub Copilot configurations (JavaScript)
+- 🎯 **[antigravity-awesome-skills](https://github.com/hieu-nv/antigravity-awesome-skills)** - 700+ Agentic Skills for Claude/Cursor (Python)
+- 🏗️ **[hexagon-dotnet-app](https://github.com/hieu-nv/hexagon-dotnet-app)** - Hexagonal architecture in .NET (C#)
 - ⚡ **[hexagon-app](https://github.com/hieu-nv/hexagon-app)** - Hexagonal architecture in Kotlin
+- 🎨 **[Compose](https://github.com/hieu-nv/Compose)** - Modern UI development with Compose (C#)
 
 ### Pinned Repositories
-- � **[loxodon-framework](https://github.com/hieu-nv/loxodon-framework)** - MVVM & Databinding framework for Unity (C# and Lua)
-- 🎮 **[unity-viper](https://github.com/hieu-nv/unity-viper)** - VIPER architecture implementation for Unity
-- 🌐 **[hieu-nv.github.io](https://github.com/hieu-nv/hieu-nv.github.io)** ⭐ - Personal website
+- 🎮 **[loxodon-framework](https://github.com/hieu-nv/loxodon-framework)** - MVVM & Databinding framework for Unity (C# and Lua)
+- 🏗️ **[unity-viper](https://github.com/hieu-nv/unity-viper)** - VIPER architecture implementation for Unity (C#)
+- 🌐 **[hieu-nv.github.io](https://github.com/hieu-nv/hieu-nv.github.io)** ⭐ - Personal website (JavaScript)
 - 🔧 **[srv-mnt-api](https://github.com/hieu-nv/srv-mnt-api)** ⭐ - Java backend service
-- 🔐 **[AppSecurity](https://github.com/hieu-nv/AppSecurity)** - Application security implementation
+- 🔐 **[AppSecurity](https://github.com/hieu-nv/AppSecurity)** - Application security implementation (Java)
 - 💻 **[srv-mnt-app](https://github.com/hieu-nv/srv-mnt-app)** - TypeScript frontend application
 
 ## 💞️ Open to Collaborate On
