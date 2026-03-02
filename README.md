@@ -17,7 +17,7 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 - 🎮 Unity game development with **MVVM/VIPER** architectural patterns
 - 🤖 Active in **AI-assisted development**, creating **Copilot skills** and agentic workflows
 - 🌱 Cloud-native applications, microservices, and modern software architecture
-- 📚 51+ open source repositories across multiple tech stacks
+- 📚 50+ open source repositories across multiple tech stacks
 - 🏆 **Achievements**: Pull Shark x2, Arctic Code Vault Contributor
 
 ## 🛠️ Tech Stack
@@ -57,9 +57,9 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 ## 📈 Contribution Activity
 
 ```
-📦 49 public repositories
+📦 50 public repositories
 ⭐ Contributing to hexagonal architecture and AI tools
-🔥 228 contributions in the last year
+🔥 291 contributions in the last year
 👥 12 followers • 15 following
 ```
 
