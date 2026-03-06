@@ -13,17 +13,17 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 ## 🚀 About Me
 
 - 🏗️ Building maintainable backend systems with **hexagonal architecture** and **clean code** principles
-- 💻 Polyglot developer working with **Kotlin**, **C#**, **Java**, **TypeScript**, and **Python**
+- 💻 Polyglot developer working with **TypeScript**, **Java**, **C#**, **Kotlin**, and **Swift**
 - 🎮 Unity game development with **MVVM/VIPER** architectural patterns
 - 🤖 Active in **AI-assisted development**, creating **Copilot skills** and agentic workflows
 - 🌱 Cloud-native applications, microservices, and modern software architecture
-- 📚 50+ open source repositories across multiple tech stacks
+- 📚 47+ open source repositories across multiple tech stacks
 - 🏆 **Achievements**: Pull Shark x2, Arctic Code Vault Contributor
 
 ## 🛠️ Tech Stack
 
-**Backend:** Kotlin • Java • Spring Boot • C# • .NET • Python  
-**Frontend:** TypeScript • JavaScript • React • Vue • Compose  
+**Backend:** Java • Spring Boot • C# • .NET • Kotlin • Node.js
+**Frontend:** TypeScript • JavaScript • React • Swift • Compose
 **Tools:** Git • Docker • AWS • Unity • GitHub Copilot  
 **Patterns:** Hexagonal Architecture • MVVM • VIPER • Clean Architecture • DDD
 
@@ -38,9 +38,9 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 ## 🌟 Featured Projects
 
 ### Recent Work
-- 🚀 **[awesome-copilot](https://github.com/hieu-nv/awesome-copilot)** - Community-contributed GitHub Copilot configurations (JavaScript)
-- 🎯 **[antigravity-awesome-skills](https://github.com/hieu-nv/antigravity-awesome-skills)** - 700+ Agentic Skills for Claude/Cursor (Python)
 - ⚡ **[hexagon-app](https://github.com/hieu-nv/hexagon-app)** - Hexagonal architecture in Kotlin
+- 🎯 **[zalloc](https://github.com/hieu-nv/zalloc)** - High-performance memory parsing (C#)
+- 🚀 **[StreamChamp](https://github.com/hieu-nv/StreamChamp)** - iOS AVPlayer audio streaming (Swift)
 
 ### Pinned Repositories
 - 🔐 **[AppSecurity](https://github.com/hieu-nv/AppSecurity)** - Application security implementation (Java)
@@ -57,9 +57,9 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 ## 📈 Contribution Activity
 
 ```
-📦 50 public repositories
+📦 47 public repositories
 ⭐ Contributing to hexagonal architecture and AI tools
-🔥 291 contributions in the last year
+🔥 464 contributions in the last year
 👥 12 followers • 15 following
 ```
 
