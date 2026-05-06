@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-hieu--nv.github.io-blue?style=flat-square&logo=google-chrome)](https://hieu-nv.github.io)
+[![Website](https://img.shields.io/badge/Website-hieunv.vercel.app-blue?style=flat-square&logo=google-chrome)](https://hieunv.vercel.app)
 [![Location](https://img.shields.io/badge/📍-Hanoi,_Vietnam-green?style=flat-square)]()
 [![Email](https://img.shields.io/badge/Email-hieunv@live.com-red?style=flat-square&logo=gmail)](mailto:hieunv@live.com)
 
@@ -17,8 +17,8 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 - 🎮 Unity game development with **MVVM/VIPER** architectural patterns
 - 🤖 Active in **AI-assisted development**, creating **Copilot skills** and agentic workflows
 - 🌱 Cloud-native applications, microservices, and modern software architecture
-- 📚 47+ open source repositories across multiple tech stacks
-- 🏆 **Achievements**: Pull Shark x2, Arctic Code Vault Contributor
+- 📚 50+ open source repositories across multiple tech stacks
+- 🏆 **Achievements**: Pull Shark x3, Arctic Code Vault Contributor
 
 ## 🛠️ Tech Stack
 
@@ -60,17 +60,17 @@ Software engineer passionate about **hexagonal architecture**, **clean code**, a
 ## 📈 Contribution Activity
 
 ```
-📦 47 public repositories
+📦 50 public repositories
 ⭐ Contributing to hexagonal architecture and AI tools
-🔥 464 contributions in the last year
-👥 12 followers • 15 following
+🔥 1161 contributions in the last year
+👥 12 followers • 16 following
 ```
 
 ## 📫 How to Reach Me
 
 - **GitHub**: [@hieu-nv](https://github.com/hieu-nv)
 - **Email**: [hieunv@live.com](mailto:hieunv@live.com)
-- **Website**: [hieu-nv.github.io](https://hieu-nv.github.io)
+- **Website**: [hieunv.vercel.app](https://hieunv.vercel.app)
 
 ---
 
