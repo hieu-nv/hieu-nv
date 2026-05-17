@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Hieu Nguyen
 
-<p align="center">
-  <img src="./images/banner.svg" alt="Hieu Nguyen Profile Banner" width="100%">
-</p>
-
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-hieunv.vercel.app-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hieunv.vercel.app)
@@ -109,14 +105,14 @@
 
 ### 🌟 Featured Projects
 
-| Project | Primary Stack | Architecture &amp; Key Highlights |
-| :--- | :--- | :--- |
-| ⚡ **[hexagon-app](https://github.com/hieu-nv/hexagon-app)** | `Kotlin` `Spring Boot` | Master-class blueprint of **Hexagonal Architecture** in Kotlin, showing decoupled core business rules from REST/database layers. |
-| 🎯 **[zalloc](https://github.com/hieu-nv/zalloc)** | `C#` `.NET Core` | Extreme high-performance memory parsing engine in C# using advanced memory primitives (`Span<T>`, `Memory<T>`) for zero-allocation. |
-| 🚀 **[StreamChamp](https://github.com/hieu-nv/StreamChamp)** | `Swift` `iOS` | High-fidelity iOS audio streaming library leveraging `AVPlayer` for smooth, low-latency background playback. |
-| 🔐 **[AppSecurity](https://github.com/hieu-nv/AppSecurity)** | `Java` `Spring Security` | Hardened application security template with custom token verification, OAuth2 integration, and microservices authorization. |
-| 🏗️ **[hexagon-dotnet-app](https://github.com/hieu-nv/hexagon-dotnet-app)** | `C#` `.NET` `DDD` | Enterprise-grade implementation of Hexagonal Architecture in .NET, proving C# clean code and domain decoupling concepts. |
-| 🎨 **[Compose](https://github.com/hieu-nv/Compose)** | `C#` `Unity` | Modern UI Toolkit integration for Unity, creating declarative and reactive UI modules inspired by Jetpack Compose. |
+| Project                                                                 | Primary Stack            | Architecture &amp; Key Highlights                                                                                                   |
+| :---------------------------------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
+| **[hexagon-app](https://github.com/hieu-nv/hexagon-app)**               | `Kotlin` `Spring Boot`   | Master-class blueprint of **Hexagonal Architecture** in Kotlin, showing decoupled core business rules from REST/database layers.    |
+| **[zalloc](https://github.com/hieu-nv/zalloc)**                         | `C#` `.NET Core`         | Extreme high-performance memory parsing engine in C# using advanced memory primitives (`Span<T>`, `Memory<T>`) for zero-allocation. |
+| **[StreamChamp](https://github.com/hieu-nv/StreamChamp)**               | `Swift` `iOS`            | High-fidelity iOS audio streaming library leveraging `AVPlayer` for smooth, low-latency background playback.                        |
+| **[AppSecurity](https://github.com/hieu-nv/AppSecurity)**               | `Java` `Spring Security` | Hardened application security template with custom token verification, OAuth2 integration, and microservices authorization.         |
+| **[hexagon-dotnet-app](https://github.com/hieu-nv/hexagon-dotnet-app)** | `C#` `.NET` `DDD`        | Enterprise-grade implementation of Hexagonal Architecture in .NET, proving C# clean code and domain decoupling concepts.            |
+| **[Compose](https://github.com/hieu-nv/Compose)**                       | `C#` `Unity`             | Modern UI Toolkit integration for Unity, creating declarative and reactive UI modules inspired by Jetpack Compose.                  |
 
 ---
 
@@ -134,7 +130,7 @@
 
 <div align="center">
 
-💡 *"Clean code always looks like it was written by someone who cares."*
+💡 _"Clean code always looks like it was written by someone who cares."_
 <br>
 — **Robert C. Martin (Uncle Bob)**
 
