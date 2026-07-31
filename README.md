@@ -1,10 +1,15 @@
 # 👋 Hi, I'm Hieu Nguyen
 
 <div align="center">
-  
+
+<a href="https://hieunv.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Architect+%26+Polyglot+Engineer;Hexagonal+%2F+Clean+Architecture+Advocate;Building+Agentic+AI+Copilot+Workflows;Kotlin+%C2%B7+C%23+%C2%B7+TypeScript+%C2%B7+Swift&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=10B981&vCenter=true" alt="Typing SVG">
+</a>
+
 [![Website](https://img.shields.io/badge/Website-hieunv.vercel.app-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hieunv.vercel.app)
 [![Location](https://img.shields.io/badge/Location-Hanoi,%20Vietnam-06b6d4?style=for-the-badge&logo=google-maps&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-hieunv@live.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieunv@live.com)
+[![Follow](https://img.shields.io/github/followers/hieu-nv?style=for-the-badge&logo=github&color=8b5cf6&label=Follow&logoColor=white)](https://github.com/hieu-nv)
 
 </div>
 
@@ -78,15 +83,24 @@
   <img src="./images/profile-night-green.svg" alt="Hieu's GitHub Stats Card" width="95%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieu-nv&theme=github-dark-dimmed&hide_border=true&background=0D1117&ring=10b981&fire=06b6d4&currStreakLabel=10b981" alt="GitHub Streak Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-nv&layout=compact&theme=github-dark-dimmed&hide_border=true&bg_color=0D1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages" width="38%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hieu-nv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="95%">
+</p>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>📈 Contribution Activity</h4>
       <ul>
-        <li>📦 <strong>50+ public repositories</strong> across multiple tech stacks</li>
+        <li>📦 <strong>51 public repositories</strong> across multiple tech stacks</li>
         <li>⭐ <strong>Open Source Champion</strong> in Hexagonal Architecture &amp; developer tooling</li>
-        <li>🔥 <strong>1,161 contributions</strong> in the last year alone</li>
-        <li>👥 <strong>12 followers</strong> • <strong>16 following</strong></li>
+        <li>🔥 <strong>1,667 contributions</strong> in the last year alone</li>
+        <li>👥 <strong>13 followers</strong> • <strong>17 following</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -113,6 +127,7 @@
 | 🚀 **[AppSecurity](https://github.com/hieu-nv/AppSecurity)**               | `Java` `Spring Security` | Hardened application security template with custom token verification, OAuth2 integration, and microservices authorization.         |
 | 🏗️ **[hexagon-dotnet-app](https://github.com/hieu-nv/hexagon-dotnet-app)** | `C#` `.NET` `DDD`        | Enterprise-grade implementation of Hexagonal Architecture in .NET, proving C# clean code and domain decoupling concepts.            |
 | 🎨 **[Compose](https://github.com/hieu-nv/Compose)**                       | `C#` `Unity`             | Modern UI Toolkit integration for Unity, creating declarative and reactive UI modules inspired by Jetpack Compose.                  |
+| 🤖 **[agent-skills](https://github.com/hieu-nv/agent-skills)**             | `Shell` `AI`             | Custom GitHub Copilot agent skills and agentic development workflows, extending Copilot with domain-specific automation.            |
 
 ---
 
