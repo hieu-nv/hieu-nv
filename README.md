@@ -43,9 +43,6 @@ I build maintainable software with clean boundaries, pragmatic patterns, and a f
 
 <div align="center">
 
-<img src="./images/profile-night-green.svg" alt="Hieu Nguyen's GitHub contribution stats" width="95%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-nv&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=10b981&amp;text_color=c9d1d9" alt="Most-used languages in public repositories" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieu-nv&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=10b981&amp;fire=06b6d4&amp;currStreakLabel=10b981" alt="GitHub contribution streak" height="165" />
 
 </div>
