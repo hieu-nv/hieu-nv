@@ -1,156 +1,63 @@
-# 👋 Hi, I'm Hieu Nguyen
-
 <div align="center">
 
-<a href="https://hieunv.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Architect+%26+Polyglot+Engineer;Hexagonal+%2F+Clean+Architecture+Advocate;Building+Agentic+AI+Copilot+Workflows;Kotlin+%C2%B7+C%23+%C2%B7+TypeScript+%C2%B7+Swift&font=Fira+Code&center=true&width=600&height=45&duration=3000&pause=800&color=10B981&vCenter=true" alt="Typing SVG">
-</a>
+# Hi, I'm Hieu Nguyen 👋
 
-[![Website](https://img.shields.io/badge/Website-hieunv.vercel.app-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hieunv.vercel.app)
-[![Location](https://img.shields.io/badge/Location-Hanoi,%20Vietnam-06b6d4?style=for-the-badge&logo=google-maps&logoColor=white)]()
-[![Email](https://img.shields.io/badge/Email-hieunv@live.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieunv@live.com)
-[![Follow](https://img.shields.io/github/followers/hieu-nv?style=for-the-badge&logo=github&color=8b5cf6&label=Follow&logoColor=white)](https://github.com/hieu-nv)
+### Software Engineer · Architecture Enthusiast · Polyglot Developer
+
+I build maintainable software with clean boundaries, pragmatic patterns, and a focus on developer experience.
+
+[![Website](https://img.shields.io/badge/Website-hieunv.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://hieunv.vercel.app)
+[![Email](https://img.shields.io/badge/Email-hieunv%40live.com-2563eb?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:hieunv@live.com)
+[![GitHub](https://img.shields.io/badge/Follow-%40hieu--nv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieu-nv)
 
 </div>
 
-<p align="center">
-  <strong>Software Architect & Polyglot Engineer</strong> passionate about <strong>hexagonal architecture</strong>, <strong>clean code</strong>, and building maintainable, high-performance systems across multiple tech stacks.
+## About me
+
+- 🏗️ I explore **hexagonal architecture**, **clean architecture**, and **domain-driven design**.
+- 💻 I work across **Kotlin**, **Java**, **C#**, **TypeScript**, and **Swift**.
+- ⚡ I enjoy performance engineering, expressive APIs, and well-tested systems.
+- 🤖 I create reusable **AI agent skills** that automate software-engineering workflows.
+- 🎮 I experiment with architecture and functional patterns for Unity and iOS applications.
+
+## Featured work
+
+| Project | What it explores | Stack |
+| :-- | :-- | :-- |
+| [**agent-skills**](https://github.com/hieu-nv/agent-skills) | Reusable agent skills for pull requests, merge requests, and issue workflows | Shell · AI tooling |
+| [**hexagon-app**](https://github.com/hieu-nv/hexagon-app) | Ports-and-adapters architecture with a framework-independent core | Kotlin · Spring Boot · Gradle |
+| [**hexagon-dotnet-app**](https://github.com/hieu-nv/hexagon-dotnet-app) | Minimal APIs, persistence, external gateways, observability, and testing | C# · ASP.NET Core · EF Core |
+| [**zalloc**](https://github.com/hieu-nv/zalloc) | Benchmarked zero-allocation string parsing with `ReadOnlySpan<char>` | C# · .NET · BenchmarkDotNet |
+| [**Compose**](https://github.com/hieu-nv/Compose) | Left-to-right function composition through a small, expressive API | C# · .NET |
+| [**StreamChamp**](https://github.com/hieu-nv/StreamChamp) | Local and remote media playback on iOS | Swift · SwiftUI · AVFoundation |
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cs,ts,swift,spring,dotnet,nodejs,react,docker,aws,git,github,unity&amp;perline=14" alt="Kotlin, Java, C#, TypeScript, Swift, Spring, .NET, Node.js, React, Docker, AWS, Git, GitHub, and Unity" />
 </p>
 
----
+**Architecture:** Hexagonal Architecture · Clean Architecture · DDD · TDD · MVVM · VIPER
 
-### 🚀 About Me
-
-- 🏗️ **Architectural Design**: Specialized in building maintainable, scalable backend systems using **Hexagonal Architecture (Ports & Adapters)**, **Clean Architecture**, and **Domain-Driven Design (DDD)**.
-- 💻 **Polyglot Developer**: Actively developing production-ready code in **Kotlin**, **Java**, **C# (.NET)**, **TypeScript**, and **Swift**.
-- 🎮 **Game Architecture**: Designing Unity game structures utilizing modern frontend patterns like **MVVM** and **VIPER**.
-- 🤖 **Agentic AI**: Pioneer in **AI-assisted development**, creating customized **Copilot skills** and automated agentic development workflows.
-- 🏆 **GitHub Achievements**: Triple **Pull Shark** recipient (`Pull Shark x3`) and **Arctic Code Vault Contributor**.
-
----
-
-### 🛠️ Tech Stack
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-      <br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Frameworks</h4>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot">
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
-      <br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-      <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=android&logoColor=white" alt="Compose">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h4>🛠️ Tools & DevOps</h4>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity">
-      <br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Copilot_Skills-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot">
-    </td>
-    <td valign="top">
-      <h4>📐 Architecture & Patterns</h4>
-      <img src="https://img.shields.io/badge/Hexagonal-10b981?style=flat-square" alt="Hexagonal">
-      <img src="https://img.shields.io/badge/Clean_Architecture-06b6d4?style=flat-square" alt="Clean">
-      <img src="https://img.shields.io/badge/DDD-8b5cf6?style=flat-square" alt="DDD">
-      <br>
-      <img src="https://img.shields.io/badge/MVVM%20%2F%20VIPER-3b82f6?style=flat-square" alt="MVVM/VIPER">
-      <img src="https://img.shields.io/badge/TDD-ef4444?style=flat-square" alt="TDD">
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="./images/profile-night-green.svg" alt="Hieu's GitHub Stats Card" width="95%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieu-nv&theme=github-dark-dimmed&hide_border=true&background=0D1117&ring=10b981&fire=06b6d4&currStreakLabel=10b981" alt="GitHub Streak Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-nv&layout=compact&theme=github-dark-dimmed&hide_border=true&bg_color=0D1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages" width="38%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hieu-nv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" width="95%">
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📈 Contribution Activity</h4>
-      <ul>
-        <li>📦 <strong>51 public repositories</strong> across multiple tech stacks</li>
-        <li>⭐ <strong>Open Source Champion</strong> in Hexagonal Architecture &amp; developer tooling</li>
-        <li>🔥 <strong>1,667 contributions</strong> in the last year alone</li>
-        <li>👥 <strong>13 followers</strong> • <strong>17 following</strong></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💞️ Open to Collaborate On</h4>
-      <ul>
-        <li>🌐 Open source projects in <strong>Kotlin</strong>, <strong>C#</strong>, or <strong>TypeScript</strong></li>
-        <li>🏛️ Backend systems leveraging <strong>hexagonal/clean architecture</strong></li>
-        <li>🛠️ Developer tooling, custom CLI libraries, and AI-agent workflows</li>
-        <li>🎮 Unity frameworks and high-performance game architecture</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌟 Featured Projects
-
-| Project                                                                    | Primary Stack            | Architecture &amp; Key Highlights                                                                                                   |
-| :------------------------------------------------------------------------- | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------- |
-| ⚡ **[hexagon-app](https://github.com/hieu-nv/hexagon-app)**               | `Kotlin` `Spring Boot`   | Master-class blueprint of **Hexagonal Architecture** in Kotlin, showing decoupled core business rules from REST/database layers.    |
-| 🎯 **[zalloc](https://github.com/hieu-nv/zalloc)**                         | `C#` `.NET Core`         | Extreme high-performance memory parsing engine in C# using advanced memory primitives (`Span<T>`, `Memory<T>`) for zero-allocation. |
-| 🚀 **[StreamChamp](https://github.com/hieu-nv/StreamChamp)**               | `Swift` `iOS`            | High-fidelity iOS audio streaming library leveraging `AVPlayer` for smooth, low-latency background playback.                        |
-| 🚀 **[AppSecurity](https://github.com/hieu-nv/AppSecurity)**               | `Java` `Spring Security` | Hardened application security template with custom token verification, OAuth2 integration, and microservices authorization.         |
-| 🏗️ **[hexagon-dotnet-app](https://github.com/hieu-nv/hexagon-dotnet-app)** | `C#` `.NET` `DDD`        | Enterprise-grade implementation of Hexagonal Architecture in .NET, proving C# clean code and domain decoupling concepts.            |
-| 🎨 **[Compose](https://github.com/hieu-nv/Compose)**                       | `C#` `Unity`             | Modern UI Toolkit integration for Unity, creating declarative and reactive UI modules inspired by Jetpack Compose.                  |
-| 🤖 **[agent-skills](https://github.com/hieu-nv/agent-skills)**             | `Shell` `AI`             | Custom GitHub Copilot agent skills and agentic development workflows, extending Copilot with domain-specific automation.            |
-
----
-
-### 📫 How to Reach Me
+## GitHub activity
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieu-nv)
-[![Email](https://img.shields.io/badge/Email-hieunv@live.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieunv@live.com)
-[![Website](https://img.shields.io/badge/Website-hieunv.vercel.app-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hieunv.vercel.app)
+
+<img src="./images/profile-night-green.svg" alt="Hieu Nguyen's GitHub contribution stats" width="95%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieu-nv&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=10b981&amp;text_color=c9d1d9" alt="Most-used languages in public repositories" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hieu-nv&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=10b981&amp;fire=06b6d4&amp;currStreakLabel=10b981" alt="GitHub contribution streak" height="165" />
 
 </div>
 
----
+## Let's build something
+
+I'm interested in collaborating on clean backend architecture, developer tooling, performance-focused libraries, and AI-assisted engineering workflows.
 
 <div align="center">
 
-💡 _"Clean code always looks like it was written by someone who cares."_
-<br>
-— **Robert C. Martin (Uncle Bob)**
+[**Explore my projects**](https://github.com/hieu-nv?tab=repositories) · [**Visit my website**](https://hieunv.vercel.app) · [**Send me an email**](mailto:hieunv@live.com)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=hieu-nv&color=10b981&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hieu-nv&color=10b981&style=flat-square&label=Profile+views)
 
 </div>
